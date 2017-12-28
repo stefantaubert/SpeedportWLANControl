@@ -1,0 +1,4 @@
+/src/.vs/WlanControl/v14/*.suo
+/src/*.suo
+/src/WlanControl/bin/Debug
+/src/WlanControl/obj/Debug
